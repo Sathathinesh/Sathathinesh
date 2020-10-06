@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , Im Thinesh 👋
 
 <!--
 **Sathathinesh/Sathathinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
