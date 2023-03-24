@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Thinesh!
 
-![Banner](https://i.imgur.com/OSZKfGe.jpg)
 
 🎓 I hold a Bachelor of Science with Honours in Computer Engineering from the University of Peradeniya Faculty of Engineering, Sri Lanka, which is Singapore PE Board approved and Washington Accord recognized. I'm a tech enthusiast with a passion for solving problems and finding efficient solutions. I believe that every problem presents an opportunity to gain knowledge.
 
@@ -14,9 +13,8 @@
 
 🤝 Experience in `Agile` framework.
 
-🌐 Knowledge of `web development`, `design`, and `programming languages`.
+🌐 Knowledge of `Web Development`, `DevOps`, and `Programming Languages`.
 
-🗣️ Good presentation and communication skills.
 
 ## 📲 How to Reach Me
 
