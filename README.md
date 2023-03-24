@@ -1,17 +1,29 @@
-### Hi , I'm Thinesh 👋
+# 👋 Hi, I'm Thinesh!
 
-<!--
-**Sathathinesh/Sathathinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a Bachelor of Science with Honours in Computer Engineering from the University of Peradeniya Faculty of Engineering, Sri Lanka, which is Singapore PE Board approved and Washington Accord recognized. I'm a tech enthusiast with a passion for solving problems and finding efficient solutions. I believe that every problem presents an opportunity to gain knowledge.
 
-My Values:
+## 💻 My Skills and Experiences
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Passionate, Hardworking, Self motivated Computer Engineering Undergraduate with specialties including front end web development , mobile development and java programming.
+🔥 Expertise in `PHP`, `JavaScript`, `Laravel`, `Node.JS`, `ReactJS`, `HTML`, `CSS`, `JQuery`, `MySQL`.
+
+🚀 Designed and developed `REST APIs`.
+
+🛠️ Experience in `AWS` tools.
+
+🤝 Experience in `Agile` framework.
+
+🌐 Knowledge of `web development`, `design`, and `programming languages`.
+
+🗣️ Good presentation and communication skills.
+
+## 📲 How to Reach Me
+
+📧 Email: sathathinesh@gmail.com
+
+
+## 🎉 Fun Fact
+
+I love science fiction movies and TV shows! 🚀👽🎥
+
+Thanks for checking out my profile! Feel free to explore my repositories to see what I've been working on. 🕵️‍♂️💻🔍
+
