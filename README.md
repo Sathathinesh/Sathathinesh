@@ -25,6 +25,8 @@
 
 I love science fiction movies and TV shows! 🚀👽🎥
 
+I love football! ⚽️🥅
+
 ## 🤝 Let's Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sathathinesh/) to stay updated on my latest projects and experiences.
