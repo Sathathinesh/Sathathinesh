@@ -11,8 +11,6 @@
 
 🛠️ Experience in `AWS` tools.
 
-🤝 Experience in `Agile` framework.
-
 🌐 Knowledge of `Web Development`, `DevOps`, and `Programming Languages`.
 
 
