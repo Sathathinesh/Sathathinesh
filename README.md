@@ -27,6 +27,6 @@ I love football! ⚽️🥅
 
 ## 🤝 Let's Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sathathinesh/) to stay updated on my latest projects and experiences.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sathathinesh/) and  [Medium](https://medium.com/@sathathinesh) to stay updated on my latest projects and experiences.
 
 Thanks for checking out my profile! Feel free to explore my repositories to see what I've been working on. 🕵️‍♂️💻🔍
