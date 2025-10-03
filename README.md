@@ -5,9 +5,9 @@
 
 ## 💻 My Skills and Experiences
 
-🔥 Expertise in `PHP`, `JavaScript`, `Laravel`, `Node.JS`, `ReactJS`, `HTML`, `CSS`, `JQuery`, `MySQL`.
+🔥 Expertise in `TypeScript`, `JavaScript`, `Nest.js`, `PHP`, `Laravel`, `Node.JS`, `ReactJS`, `HTML`, `CSS`, `JQuery`, `MySQL`.
 
-🚀 Designed and developed `REST APIs`.
+🚀 Designed and developed `REST APIs`, `JSON RPC`.
 
 🛠️ Experience in `AWS` tools.
 
